@@ -1,1 +1,1 @@
-# dipy-data
+# dipy_data
